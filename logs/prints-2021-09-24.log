@@ -1,0 +1,7 @@
+09:41:34.902 [main] INFO  com.mindtree.runner.Runner - Search test Case Success
+09:42:53.468 [main] INFO  com.mindtree.runner.Runner - Email verification test success.
+09:43:39.695 [main] INFO  com.mindtree.runner.Runner - Store Found
+09:43:39.696 [main] INFO  com.mindtree.runner.Runner - Sign up test success.
+09:44:23.674 [main] INFO  com.mindtree.runner.Runner - Invalid details
+09:44:27.047 [main] INFO  com.mindtree.runner.Runner - Track order success
+09:45:10.040 [main] INFO  com.mindtree.runner.Runner - Subscribe passed

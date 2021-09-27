@@ -1,0 +1,7 @@
+15:53:12.457 [main] INFO  com.mindtree.runner.Runner - Email verification test success.
+15:53:21.762 [main] INFO  com.mindtree.runner.Runner - Help button passed
+15:53:39.756 [main] INFO  com.mindtree.runner.Runner - Store Found
+15:53:39.757 [main] INFO  com.mindtree.runner.Runner - Sign up test success.
+15:53:53.359 [main] INFO  com.mindtree.runner.Runner - Invalid details
+15:53:53.696 [main] INFO  com.mindtree.runner.Runner - Track order success
+15:54:02.992 [main] INFO  com.mindtree.runner.Runner - Subscribe passed

@@ -1,0 +1,7 @@
+15:45:39.798 [main] INFO  com.mindtree.runner.SignUp - Store Found
+16:07:28.434 [main] INFO  com.mindtree.runner.SignUp - Subscribe passed
+16:10:39.617 [main] INFO  com.mindtree.runner.SignUp - Subscribe passed
+16:45:55.280 [main] INFO  com.mindtree.runner.SignUp - Invalid details
+16:45:55.296 [main] INFO  com.mindtree.runner.SignUp - Order success
+21:10:34.244 [main] INFO  com.mindtree.runner.LogIn - Login test success.
+21:11:38.323 [main] INFO  com.mindtree.runner.LogIn - Log out test success.
